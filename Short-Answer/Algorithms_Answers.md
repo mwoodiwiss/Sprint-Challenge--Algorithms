@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) linear time
 
 
-b)
+b)quadratic time
 
 
-c)
+c)logarithmic time
 
 ## Exercise II
 
